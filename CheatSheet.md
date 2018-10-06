@@ -46,8 +46,8 @@ ___
 `<b>This is a bold tag.</b>`
 
 <!-- Images -->
-<!-- ![BWS Logo](https://imgur.com/kefGZhK.png)
-![BWS Logo With Title](https://imgur.com/Ug7OrFe.png "BWS Logo With Title") -->
+![BWS Logo](https://imgur.com/kefGZhK.png)
+![BWS Logo With Title](https://imgur.com/Ug7OrFe.png "BWS Logo With Title")
 
 
 <!-- Github Markdown -->
